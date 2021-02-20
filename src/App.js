@@ -52,7 +52,10 @@ const App = () => {
   }
   return (
     <div className='container'>
-      <Header />
+      <Header
+        onAdd={() => setShowAddTask(!showAddTask)}
+        showAdd={showAddTask}
+      />
       {
         showAddTask && // && allows IF ternary without else
         <AddTask
