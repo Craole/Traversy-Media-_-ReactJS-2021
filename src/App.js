@@ -73,11 +73,3 @@ const App = () => {
 }
 
 export default App
-
-/* ,
-{
-  "id": 3,
-    "text": "Grocery Shopping",
-      "day": "Feb 5th at 2:30pm",
-        "reminder": false
-} */
