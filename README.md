@@ -1,4 +1,4 @@
-# [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
+# React Crash Course 2021 [(Task Tracker App)](https://youtu.be/w7ejDZ8SWv8)
 
 [![Traversy Media](https://i.imgur.com/qcqbi0S.png)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
@@ -36,3 +36,29 @@
 - 1:31:51​ - Add task to server
 - 1:35:15​ - Toggle reminder on server
 - 1:39:15​ - Routing, footer & about
+
+## Usage
+
+### Install dependencies
+
+```
+yarn install
+```
+
+### Run React dev server (http://localhost:3000)
+
+```
+yarn start
+```
+
+### Run the JSON server (http://localhost:5000)
+
+```
+yarn run server
+```
+
+### To build for production
+
+```
+yarn run build
+```
