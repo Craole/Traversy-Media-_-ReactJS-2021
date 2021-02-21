@@ -1,4 +1,4 @@
-# React Crash Course 2021 [(Task Tracker App)](https://youtu.be/w7ejDZ8SWv8)
+# React Crash Course 2021 [(Task Tracker App)](https://github.com/bradtraversy/react-crash-2021)
 
 [![Traversy Media](https://i.imgur.com/qcqbi0S.png)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 

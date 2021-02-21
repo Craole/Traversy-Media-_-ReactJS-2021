@@ -17,7 +17,7 @@ const Task = ({ task, onDelete, onToggle }) => {
                 />
             </h3>
             <p>
-                {task.day}
+                {task.date}
             </p>
         </div>
     )
